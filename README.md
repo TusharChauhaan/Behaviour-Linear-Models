@@ -18,4 +18,3 @@ Learnt about various linear Model and their behaviour on various kinds od datase
 
 # 3. Experiment 3 : Linear Model performance on presence of outliers
 *   As a part of this experiment we will be working the regression problem and how regularization helps to get rid of outliers, and we will see how the hyperplane is changing in presence of outliers.
-*   
